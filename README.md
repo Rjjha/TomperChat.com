@@ -22,7 +22,7 @@ This is the frontend + backend of TomperChat build with MERN stack
  -->
 #### 🧾 Description
 
-TomperChat is a clone of WhatsApp. Its build using MERN stack and uses <a href='https://socket.io/'>socket.io</a> for realtime messaging, online statuses, typing indicators, notifications etc.
+TomperChat is a clone of WhatsApp. Its build using MERN stack and uses <a href='https://socket.io/'>socket.io</a> for realtime messaging, online statuses, notifications etc.
 
 #### ✨ Features
 
@@ -33,7 +33,7 @@ TomperChat is a clone of WhatsApp. Its build using MERN stack and uses <a href='
 - [x] Uninterested users can leave the group-chat.
 - [x] Chat in realtime with <a href='https://socket.io/'>socket.io</a>.
 - [x] User's realtime online/offline status in private chat.
-- [x] Users realtime typing indicator in both private and group chats.
+   
 - [x] Realtime chat notifications for both private and group chat.
 - [x] Responsive for all screen sizes.
 - [x] And most importantly 😎 Feels just like whatsapp-web (or Desktop app).
