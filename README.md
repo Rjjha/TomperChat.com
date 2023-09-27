@@ -11,7 +11,7 @@
 ---
 
 <p align='center'>
-This is the frontend + backend of TomperChat build with MERN stack and hosted with <a href='https://www.render.com/' target='_blank'>Render</a>
+This is the frontend + backend of TomperChat build with MERN stack
 </p>
 <p align='center'>
 <img src='./assets/dp1.PNG' >
